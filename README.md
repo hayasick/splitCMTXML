@@ -6,4 +6,4 @@ Usage: `$python splitCMTXML.py < yourxmlfile.xml`
 
 After filling the reviews, you can concatenate them by mergeCMTXML.py.
 
-Usage: '$cat *.xml | python mergeCMTXML.py > merged.xml'
+Usage: `$cat *.xml | python mergeCMTXML.py > merged.xml`
